@@ -1,2 +1,2 @@
 # SPOTIFY-PROJECT
-Spotify clone project desined by HTML & CSS
+This is a clone project of Spotify.I have designed frontend with HTML & CSS in this project
